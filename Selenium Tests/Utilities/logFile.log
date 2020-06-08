@@ -1,0 +1,10 @@
+2020-06-05 15:49:35,358 : DEBUG : PyFramework.Utilities.Test_LoggingMethod : Debug message
+2020-06-05 15:49:35,457 : INFO : PyFramework.Utilities.Test_LoggingMethod : Info message
+2020-06-05 15:49:35,457 : WARNING : PyFramework.Utilities.Test_LoggingMethod : Warning message
+2020-06-05 15:49:35,457 : ERROR : PyFramework.Utilities.Test_LoggingMethod : Error message
+2020-06-05 15:49:35,458 : CRITICAL : PyFramework.Utilities.Test_LoggingMethod : Critical error
+2020-06-05 15:56:45,542 : DEBUG : PyFramework.Utilities.Test_LoggingMethod : Debug message
+2020-06-05 15:56:45,543 : INFO : PyFramework.Utilities.Test_LoggingMethod : Info message
+2020-06-05 15:56:45,543 : WARNING : PyFramework.Utilities.Test_LoggingMethod : Warning message
+2020-06-05 15:56:45,543 : ERROR : PyFramework.Utilities.Test_LoggingMethod : Error message
+2020-06-05 15:56:45,543 : CRITICAL : PyFramework.Utilities.Test_LoggingMethod : Critical error
