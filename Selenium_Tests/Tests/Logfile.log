@@ -1,16 +1,39 @@
-2020-06-07 18:38:57,762 : INFO : test_e2e : ***Test user is able to select a Red 128gb iPhone SE***
-2020-06-07 18:38:57,762 : INFO : test_e2e : Navigating to www.apple.com
-2020-06-07 18:39:00,467 : INFO : test_e2e : Click on iPhone link
-2020-06-07 18:39:02,360 : INFO : test_e2e : Iterate through iphone models
-2020-06-07 18:39:02,393 : INFO : test_e2e : Model iPhone 11 Pro
-2020-06-07 18:39:02,434 : INFO : test_e2e : Model iPhone 11
-2020-06-07 18:39:02,487 : INFO : test_e2e : Model iPhone SE
-2020-06-07 18:39:45,779 : INFO : test_e2e : Added iphone to cart
-2020-06-07 18:39:45,800 : INFO : test_e2e : ***Test user is able to select a White 128gb iPhone SE***
-2020-06-07 18:39:45,800 : INFO : test_e2e : Navigating to www.apple.com
-2020-06-07 18:39:48,271 : INFO : test_e2e : Click on iPhone link
-2020-06-07 18:39:49,585 : INFO : test_e2e : Iterate through iphone models
-2020-06-07 18:39:49,692 : INFO : test_e2e : Model iPhone 11 Pro
-2020-06-07 18:39:49,773 : INFO : test_e2e : Model iPhone 11
-2020-06-07 18:39:49,822 : INFO : test_e2e : Model iPhone SE
-2020-06-07 18:40:23,488 : INFO : test_e2e : Added iphone to cart
+2020-06-07 22:30:33,867 : INFO : test_e2e : ***Test user is able to select a Red 128gb iPhone SE***
+2020-06-07 22:30:33,867 : INFO : test_e2e : Navigating to www.apple.com
+2020-06-07 22:30:36,990 : INFO : test_e2e : Click on iPhone link
+2020-06-07 22:30:37,840 : INFO : test_e2e : Iterate through iphone models
+2020-06-07 22:30:37,851 : INFO : test_e2e : Model iPhone 11 Pro
+2020-06-07 22:30:37,867 : INFO : test_e2e : Model iPhone 11
+2020-06-07 22:30:37,918 : INFO : test_e2e : Model iPhone SE
+2020-06-07 22:31:10,155 : INFO : test_e2e : Added iphone to cart
+2020-06-07 22:31:10,163 : INFO : test_e2e : ***Test user is able to select a White 128gb iPhone SE***
+2020-06-07 22:31:10,163 : INFO : test_e2e : Navigating to www.apple.com
+2020-06-07 22:31:10,804 : INFO : test_e2e : Click on iPhone link
+2020-06-07 22:31:11,276 : INFO : test_e2e : Iterate through iphone models
+2020-06-07 22:31:11,308 : INFO : test_e2e : Model iPhone 11 Pro
+2020-06-07 22:31:11,338 : INFO : test_e2e : Model iPhone 11
+2020-06-07 22:31:11,371 : INFO : test_e2e : Model iPhone SE
+2020-06-07 22:31:37,369 : INFO : test_e2e : Added iphone to cart
+2020-06-14 14:18:21,657 : INFO : test_e2e : ***Test user is able to select a Red 128gb iPhone SE***
+2020-06-14 14:18:21,658 : INFO : test_e2e : Navigating to www.apple.com
+2020-06-14 14:18:25,618 : INFO : test_e2e : Click on iPhone link
+2020-06-14 14:18:26,652 : INFO : test_e2e : Iterate through iphone models
+2020-06-14 14:18:26,675 : INFO : test_e2e : Model iPhone 11 Pro
+2020-06-14 14:18:26,699 : INFO : test_e2e : Model iPhone 11
+2020-06-14 14:18:26,722 : INFO : test_e2e : Model iPhone SE
+2020-06-14 14:18:54,440 : INFO : test_e2e : Added iphone to cart
+2020-06-14 14:18:54,454 : INFO : test_e2e : ***Test user is able to select a White 128gb iPhone SE***
+2020-06-14 14:18:54,454 : INFO : test_e2e : Navigating to www.apple.com
+2020-06-14 14:18:55,035 : INFO : test_e2e : Click on iPhone link
+2020-06-14 14:18:55,586 : INFO : test_e2e : Iterate through iphone models
+2020-06-14 14:18:55,616 : INFO : test_e2e : Model iPhone 11 Pro
+2020-06-14 14:18:55,651 : INFO : test_e2e : Model iPhone 11
+2020-06-14 14:18:55,690 : INFO : test_e2e : Model iPhone SE
+2020-06-14 14:19:22,059 : INFO : test_e2e : Added iphone to cart
+2020-06-14 14:22:22,630 : INFO : test_e2e : ***Test user is able to select a Red 128gb iPhone SE***
+2020-06-14 14:22:22,631 : INFO : test_e2e : Navigating to www.apple.com
+2020-06-14 14:22:26,931 : INFO : test_e2e : Click on iPhone link
+2020-06-14 14:22:28,165 : INFO : test_e2e : Iterate through iphone models
+2020-06-14 14:22:28,192 : INFO : test_e2e : Model iPhone 11 Pro
+2020-06-14 14:22:28,229 : INFO : test_e2e : Model iPhone 11
+2020-06-14 14:22:28,260 : INFO : test_e2e : Model iPhone SE

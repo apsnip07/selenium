@@ -3,11 +3,11 @@ from logging import exception
 
 import pytest
 
-from PyFramework.POM.Homepage import Homepage
-from PyFramework.POM.SelectSpecs import Specs
-from PyFramework.POM.iPhonePage import iPhonePage
-from PyFramework.Utilities.BaseClass import BaseClass
-from PyFramework.Utilities.Test_LoggingMethod import Logs
+from POM.Homepage import Homepage
+from POM.SelectSpecs import Specs
+from POM.iPhonePage import iPhonePage
+from Utilities.BaseClass import BaseClass
+from Utilities.Test_LoggingMethod import Logs
 
 
 class Test_e2e(BaseClass, Logs):
@@ -57,7 +57,6 @@ class Test_e2e(BaseClass, Logs):
 
             log.error("Error {}".format(e))
             pytest.fail("{}".format(e))
-
 
     @pytest.fixture(params=[{"color": "Red", "memory": "128gb"}, {"color":"White", "memory": "128gb"}])
     def get_data(self, request):
